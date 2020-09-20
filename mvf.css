@@ -1,7 +1,9 @@
 body,h1,h2,h3,h4,h5,h6 {
   font-family: "Lato", sans-serif;
+  font-color: white;
   text-align: justify;
   text-justify: inter-word;
+  background-color: #3F3F3F;
 }
 
 body, html {
